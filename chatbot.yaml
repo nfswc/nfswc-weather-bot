@@ -13,7 +13,7 @@ caila:
     noMatchThreshold: 0.2
 
 injector:
-  api_key: '***'
+  api_key: '2909c31e3ce00bf00262dcad5f0fb5f9'
   slotfilling:
         maxSlotRetries: 2
         stopOnAnyIntent: false
