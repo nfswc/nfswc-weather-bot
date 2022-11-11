@@ -1,4 +1,4 @@
-require: functions.js
+require: function.js
 
 theme: /
 
