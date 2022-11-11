@@ -17,4 +17,4 @@ injector:
   slotfilling:
         maxSlotRetries: 2
         stopOnAnyIntent: false
-        stopOnAnyIntentThreshold: 0.2
+        stopOnAnyIntentThreshold: 0.5
