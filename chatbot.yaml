@@ -1,7 +1,6 @@
 name: weather-api
 
-entryPoint:
-  - main.sc
+entryPoint: main.sc
 
 botEngine: v2
 language: ru
